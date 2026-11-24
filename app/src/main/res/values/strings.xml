@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ActividadX</string>
+    <string name="materia">Desarollo de aplicaciones móviles</string>
+    <string name="nombre" translatable="false">"Martin "</string>
+    <string name="apellido" translatable="false">Ramirez Rodriguez</string>
+    <string name="bottom_app_bar" translatable="false">Ramirez Rodriguez</string>
+    <string name="title" translatable="false">Ramirez Rodriguez</string>
+    <string name="Williams" translatable="false">Ramirez Rodriguez</string>
+    <string name="back_btn" translatable="false">Ramirez Rodriguez</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="calls">Llamadas</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="contacts">Contactos</string>
+    <string name="second_activity">Segunda Activity</string>
+    <string name="config">Configuración</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="texto_snackbar">Este es un Snackbar</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="options_menu">Más opciones</string>
+    <string name="menu_drawer_desc" translatable="false">Abrir menú de navegación</string>
+    <string name="drawer_title" translatable="false">Menú de Navegación</string>
+    <string name="home" translatable="false">Inicio</string>
+</resources>
